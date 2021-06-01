@@ -8,4 +8,4 @@ install: true
 
 
 script:
-- mvn -f /proje/pom.xml clean verify
+- mvn -f proje/pom.xml clean verify
