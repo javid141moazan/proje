@@ -7,4 +7,5 @@ install: true
 
 
 
-script: mvn clean verify
+script:
+- mvn -f /proje/pom.xml clean verify
