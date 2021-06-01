@@ -5,4 +5,4 @@ jdk: openjdk8
 install: true
 
 script:
-- mvn -f proje/pom.xml clean verify
+- mvn -f clean verify
